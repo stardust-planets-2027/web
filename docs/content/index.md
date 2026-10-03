@@ -3,7 +3,7 @@
 type: index
 
 event:
-    - title: MPIA conference website template
+    - title: From Stardust to Planets
     - subtitle: A simple generator using markdown and python
     - date: Date of the event
     - venue: Max Planck Institute for Astronomy, Heidelberg, Germany
