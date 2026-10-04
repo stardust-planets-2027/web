@@ -25,8 +25,8 @@ privacy-policy:
 content:
    #- help
     - overview
-    - organizers
     - participants
+    - organizers
     - programme
     #- speakers
     - venue-mpia
