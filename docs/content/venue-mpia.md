@@ -9,7 +9,7 @@ title: Venue
 The workshop will be held at Villa Vigoni near Lake Como, Italy. Information about the venue can be found [here](https://www.villavigoni.eu/en/).
 
 
-<img src="static/img/villa_vigoni.jpg" alt="venue" width=360px style="float: right;">
+<img src="static/img/villa_vigoni.jpeg" alt="venue" width=360px style="float: right;">
 
 ## Address
 
