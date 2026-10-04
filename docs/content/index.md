@@ -8,7 +8,7 @@ event:
     - date: 10-14 May 2027
     - venue: Villa Vigoni, Lake Como, Italy
 
-organisation:
+organizers:
     - name: People
     - url: https://github.com/stardust-planets-2027/web.git
     - logo: https://upload.wikimedia.org/wikipedia/commons/c/c6/Max-Planck-Institut_f%C3%BCr_Astronomie_Logo.svg  # -- MPIA logo
@@ -25,7 +25,7 @@ privacy-policy:
 content:
    #- help
     - overview
-    - organisation
+    - organizers
     - programme
     - participants
     #- speakers
