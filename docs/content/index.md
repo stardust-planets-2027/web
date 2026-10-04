@@ -26,10 +26,10 @@ content:
    #- help
     - overview
     - organizers
-    - programme
     - participants
+    - programme
     #- speakers
-    #- venue-mpia
+    - venue-mpia
     - logistics
     - travel-mpia
     - code-of-conduct

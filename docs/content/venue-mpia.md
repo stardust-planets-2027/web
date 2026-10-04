@@ -6,7 +6,7 @@ title: Venue
 ---
 
 
-The workshop will be held at the Haus der Astronomie (HdA) at [MPIA](http://www.mpia.de/en/) in Heidelberg. HdA is the Center for Astronomy Education and Outreach in Heidelberg; more information about the center and its facilities and resources [here](http://www.haus-der-astronomie.de/).
+The workshop will be held at Villa Vigoni near Lake Como, Italy. Information about the venue can be found [here](https://www.villavigoni.eu/en/).
 
 ## Accessibility
 
@@ -19,10 +19,12 @@ Note that mobile phone connectivity at/around the HdA is at best poor but usuall
 ## Address
 
 
-**Max Planck Institute for Astronomy**
+**Villa Vigoni**
 
-Königstuhl 17
+German-Italian Centre for the European Dialogue
 
-69117 Heidelberg, Germany
+Via Giulio Vigoni, 1
+
+22017 Loveno di Menaggio (CO) Italia
 
 [<i class="fa-solid fa-map-location-dot" style="font-size:48px;"></i>](https://goo.gl/maps/pFR9gC1XdBXY6EtY7)
