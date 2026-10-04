@@ -11,15 +11,10 @@ The workshop will be held at Villa Vigoni near Lake Como, Italy. Information abo
 
 <img src="static/img/villa_vigoni.jpeg" alt="venue" width=440px style="float: left; margin-right: 1em;">
 
-## Address
-
-
-**Villa Vigoni**
-
-German-Italian Centre for the European Dialogue
-
-Via Giulio Vigoni, 1
-
-22017 Loveno di Menaggio (CO) Italia
-
-[<i class="fa-solid fa-map-location-dot" style="font-size:48px;"></i>](https://goo.gl/maps/pFR9gC1XdBXY6EtY7)
+<div style="text-align: right;">
+<h2>Address</h2>
+<p><strong>Villa Vigoni</strong><br>
+German-Italian Centre for the European Dialogue<br>
+Via Giulio Vigoni, 1<br>
+22017 Loveno di Menaggio (CO) Italia</p>
+</div>
