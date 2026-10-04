@@ -348,7 +348,11 @@ button:focus,
  * Jumbotron
  *-------------------*/
 .jumbotron {
+<<<<<<< HEAD
     background            : url("../static/img/background.jpg");
+=======
+    background            : url("../static/img/DSHARP_blue.jpeg");
+>>>>>>> refs/remotes/origin/main
     background-size       : cover;
     padding               : 0;
     margin                : 0;
