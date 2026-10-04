@@ -31,6 +31,6 @@ content:
     #- speakers
     - venue-mpia
     - logistics
-    - travel-mpia
+    #- travel-mpia
     - code-of-conduct
 ---
