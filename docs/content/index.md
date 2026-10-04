@@ -8,8 +8,8 @@ event:
     - date: 10-14 May 2027
     - venue: Villa Vigoni, Lake Como, Italy
 
-organizers:
-    - name: The Data Science Team
+organisation:
+    - name: People
     - url: https://github.com/stardust-planets-2027/web.git
     - logo: https://upload.wikimedia.org/wikipedia/commons/c/c6/Max-Planck-Institut_f%C3%BCr_Astronomie_Logo.svg  # -- MPIA logo
     - contact_url: "ds@mpia.de" # -- contact
@@ -25,7 +25,7 @@ privacy-policy:
 content:
    #- help
     - overview
-    #- organizers
+    - organisation
     - programme
     - participants
     #- speakers
