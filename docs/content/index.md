@@ -9,10 +9,10 @@ event:
     - venue: Villa Vigoni, Lake Como, Italy
 
 organizers:
-    - name: People
+    - name:
     - url: https://github.com/stardust-planets-2027/web.git
-    - logo: https://upload.wikimedia.org/wikipedia/commons/c/c6/Max-Planck-Institut_f%C3%BCr_Astronomie_Logo.svg  # -- MPIA logo
-    - contact_url: "ds@mpia.de" # -- contact
+    - logo:
+    - contact_url:
 
 imprint:
     - url: http://www.mpia.de/imprint
