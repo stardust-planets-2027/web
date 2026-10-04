@@ -7,13 +7,16 @@ title: Organisation
 
 <div markdown="1" class="col-md-12" style="text-align:left;">
 
-### SOC
-* Ivelina Momcheva
-* Morgan Fouesneau
+### Scientific Organising Committee:
+* Paola Pinilla (MSSL/University College London)
+* Mihkel Kama (University College London)
+* Sebastiaan krijt (University of Exeter)
+* Cornelis Dullemond (ZAH/Heidelberg University)
+* Myriam Bensity (MPIA)
 
-### LOC
+### Local Organisting Committee:
 * Elouan Spaan (MPIA)
-* Susanna Caravechio d'Amici (MPIA)
+* Susanna Casavecchia D'Amico (MPIA)
 * Milou Temmink (MPIA)
 * Kiyoaki Doi (MPIA)
 
