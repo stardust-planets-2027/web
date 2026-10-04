@@ -1,6 +1,6 @@
 ---
 # Program
-type: schedule
+type: section
 active: true
 title: Programme
 
