@@ -24,5 +24,4 @@ title: Organisation
 * Milou Temmink (MPIA)
 * Kiyoaki Doi (MPIA)
 </p>
-</p>
 </div>
