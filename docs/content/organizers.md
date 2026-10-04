@@ -13,7 +13,7 @@ title: Organisation
 * Sebastiaan krijt (University of Exeter)
 * Cornelis Dullemond (ZAH/Heidelberg University)
 * Myriam Bensity (MPIA)
-
+<br/>
 ### Local Organisting Committee:
 * Elouan Spaan (MPIA)
 * Susanna Casavecchia D'Amico (MPIA)
