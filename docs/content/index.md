@@ -23,13 +23,13 @@ privacy-policy:
     - name: privacy policy
 
 content:
-    - help
+   #- help
     - overview
-    - organizers
-    - participants
-    - speakers
+    #- organizers
     - programme
-    - venue-mpia
+    - participants
+    #- speakers
+    #- venue-mpia
     - logistics
     - travel-mpia
     - code-of-conduct
