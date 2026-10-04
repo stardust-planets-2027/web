@@ -11,7 +11,7 @@ event:
 organizers:
     - name: People
     - url: https://github.com/stardust-planets-2027/web.git
-    #- logo: Foo
+    - logo: Foo
     #- contact_url:
 
 imprint:
