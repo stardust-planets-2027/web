@@ -25,4 +25,5 @@ Participants asked to stop any harassing behaviour are expected to comply immedi
 
 **Reporting**
 If you experience or witness breaches of the code of conduct, please contact any member of the SOC or LOC (listed above). They can be recognised at the meeting through special nametags.
+
 <!-- You can also contact the chair of the SOC through email ([email]), or the LOC at [email]. -->
