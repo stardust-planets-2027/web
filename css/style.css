@@ -132,6 +132,11 @@ ul {
     list-style : none;
     }
 
+.section-wrapper.code-of-conduct ul {
+    list-style: disc;
+    padding-left: 1.5em;
+}
+
 /*Button Style*/
 .btn {
     padding        : 10px 30px;
@@ -348,7 +353,7 @@ button:focus,
  * Jumbotron
  *-------------------*/
 .jumbotron {
-    background            : url("../static/img/background.jpg");
+    background            : url("../static/img/DSHARP_blue.jpeg");
     background-size       : cover;
     padding               : 0;
     margin                : 0;
@@ -382,6 +387,7 @@ button:focus,
 .jumbotron .content h1 {
     color       : #ffffff;
     font-weight : bold;
+    font-size: 60px;
     }
 
 .jumbotron .content p.lead {
