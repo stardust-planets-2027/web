@@ -14,7 +14,7 @@ The workshop will be held at Villa Vigoni near Lake Como, Italy. Information abo
 
 <div style="float: left; width: 440px; margin-right: 2em; text-align: left;">
   <img src="static/img/villa_vigoni.jpeg" alt="venue" style="width: 100%;">
-  <p>Image credit: name</p>
+  <p>Image credit: Psittacuso, Wikimedia commons</p>
 </div>
 
 
