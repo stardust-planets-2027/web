@@ -132,6 +132,11 @@ ul {
     list-style : none;
     }
 
+.section-wrapper.code-of-conduct ul {
+    list-style: disc;
+    padding-left: 1.5em;
+}
+
 /*Button Style*/
 .btn {
     padding        : 10px 30px;
