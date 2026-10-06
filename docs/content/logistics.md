@@ -5,4 +5,4 @@ active: true
 title: Logistics and travel
 ---
 
-TBA
+Shuttles from Milan airports and train station will be organised. More information will follow.

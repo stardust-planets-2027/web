@@ -8,18 +8,19 @@ title: Organisation
 <div markdown="1" class="col-md-12" style="text-align:left;">
 
 ### Scientific Organising Committee:
-* Paola Pinilla (MSSL/University College London)
-* Mihkel Kama (University College London)
-* Sebastiaan krijt (University of Exeter)
+* Myriam Benisty (MPIA)
 * Cornelis Dullemond (ZAH/Heidelberg University)
-* Myriam Bensity (MPIA)
+* Mihkel Kama (University College London)
+* Sebastiaan Krijt (University of Exeter)
+* Paola Pinilla (MSSL/University College London)
+
 
 <br>
 
 ### Local Organisting Committee:
-* Elouan Spaan (MPIA)
 * Susanna Casavecchia D'Amico (MPIA)
-* Milou Temmink (MPIA)
 * Kiyoaki Doi (MPIA)
+* Milou Temmink (MPIA)
+* Elouan Spaan (MPIA)
 
 </div>
