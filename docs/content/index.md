@@ -11,7 +11,7 @@ event:
 organizers:
     - name: People
     - url: https://github.com/stardust-planets-2027/web.git
-    - logo: https://upload.wikimedia.org/wikipedia/commons/c/c6/Max-Planck-Institut_f%C3%BCr_Astronomie_Logo.svg  # -- Need some logo here
+    #- logo: https://upload.wikimedia.org/wikipedia/commons/c/c6/Max-Planck-Institut_f%C3%BCr_Astronomie_Logo.svg  # -- Need some logo here
     - contact_url: "elspaan@mpia.de" # -- contact
 
 imprint:
